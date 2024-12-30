@@ -1,6 +1,8 @@
 ## TODO Application
 
-This is a React-Redux TODO application that allows users to manage their tasks efficiently. The application integrates with Redux Toolkit for state management, React Router for navigation, and Axios for API requests.
+This is a simple TODO application built using React, Redux Toolkit, React Router, and Axios. It allows users to manage a list of tasks, with features such as viewing, adding, editing, and deleting TODO items.
+
+Note: Due to the use of a placeholder API, adding, editing, and deleting tasks will not update the task list in real-time. These actions will not persist after a page reload.
 
 ## Features
 
